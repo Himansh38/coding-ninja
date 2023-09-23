@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    //Write your code here
+    int L , B;
+    cin>>L>>B;
+    cout<<L*B;
+    return 0;
+}
